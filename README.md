@@ -1,6 +1,6 @@
 # Markdown
 
-##Markdown vscode에서 미리보기
+## Markdown vscode에서 미리보기
 
 F1 -> Markdown open preview
 
