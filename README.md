@@ -22,7 +22,7 @@ Paragraph
 
 <!-- Line -->
 
-\_\_\_ (underscore 3 times) make 
+\_\_\_ (underscore 3 times) make thick line.
 
 <!-- Test attributes -->
 
